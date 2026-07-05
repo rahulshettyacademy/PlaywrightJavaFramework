@@ -1,0 +1,76 @@
+{
+  "uid" : "fff3433fff5de665",
+  "name" : "screenShotTest",
+  "fullName" : "tests.UIValidationsContinuedTest.screenShotTest",
+  "historyId" : "4f2fc89d681e15130ac504b8840170dd",
+  "time" : {
+    "start" : 1783163244678,
+    "stop" : 1783163244678,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1783163244677,
+      "stop" : 1783163244677,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.UIValidationsContinuedTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.UIValidationsContinuedTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "screenShotTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.UIValidationsContinuedTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-8.local"
+  }, {
+    "name" : "thread",
+    "value" : "81114@MacBook-Pro-8.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fff3433fff5de665.json",
+  "parameterValues" : [ ]
+}

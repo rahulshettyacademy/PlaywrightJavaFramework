@@ -1,0 +1,86 @@
+{
+  "uid" : "36dde16f76768f0a",
+  "name" : "UIControls",
+  "fullName" : "tests.MoreUIValidationsTest.UIControls",
+  "historyId" : "80b339701290229a43926e527877bf39",
+  "time" : {
+    "start" : 1783163725253,
+    "stop" : 1783163725253,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1783163725252,
+      "stop" : 1783163725252,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.MoreUIValidationsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MoreUIValidationsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "UIControls"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.MoreUIValidationsTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-8.local"
+  }, {
+    "name" : "thread",
+    "value" : "82051@MacBook-Pro-8.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8e8ad2b2867d5c15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1783163244659,
+        "stop" : 1783163244659,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36dde16f76768f0a.json",
+  "parameterValues" : [ ]
+}

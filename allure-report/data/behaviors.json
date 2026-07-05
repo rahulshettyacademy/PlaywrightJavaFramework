@@ -1,0 +1,200 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "e2eApiTest",
+    "uid" : "ee08b9046298b90d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725239,
+      "stop" : 1783163725240,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "ChildWindowHandle",
+    "uid" : "58acd025718a9f49",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725251,
+      "stop" : 1783163725251,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "UIControls",
+    "uid" : "36dde16f76768f0a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725253,
+      "stop" : 1783163725253,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "sandbox banner is shown when 6 events are returned",
+    "uid" : "ec046436f88d14b9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725262,
+      "stop" : 1783163725262,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "routeResumeTest",
+    "uid" : "1a1dbda4e4b57cbe",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725264,
+      "stop" : 1783163725264,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "popupValidations",
+    "uid" : "105af6daf7165112",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725273,
+      "stop" : 1783163725273,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "screenShotTest",
+    "uid" : "d9967f5835377461",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725274,
+      "stop" : 1783163725274,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Create Event -Book that event and verify if its booked",
+    "uid" : "a4dde04b6f5ec246",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725287,
+      "stop" : 1783163725287,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "testFillForm",
+    "uid" : "4ae2b62814c485a2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725296,
+      "stop" : 1783163725296,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "user!@yaoo.com", "password1" ]
+  }, {
+    "name" : "testFillForm",
+    "uid" : "fd8cc1b2f2b11876",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725297,
+      "stop" : 1783163725297,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "user!@gmail.com", "password2" ]
+  }, {
+    "name" : "testWithHashMap",
+    "uid" : "c985831e1ed7b887",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725299,
+      "stop" : 1783163725299,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{password=password1, email=user!@yahoo.com}" ]
+  }, {
+    "name" : "testWithHashMap",
+    "uid" : "6fdf9f45be816bc1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163725300,
+      "stop" : 1783163725300,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{password=password2, email=user!@gmail.com}" ]
+  }, {
+    "name" : "Create Event -Book that event and verify if its booked",
+    "uid" : "5177ecea123f1834",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163727858,
+      "stop" : 1783163729788,
+      "duration" : 1930
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{dateTime=2027-06-15T10:00, venue=HICC Convention Center, city=Hyderabad, phone=9876543210, price=1500, description=Annual technology conference for developers, fullName=Rahul Shetty, titlePrefix=Tech Conference, totalSeats=100, email=rahul.student@example.com}" ]
+  }, {
+    "name" : "Create Event -Book that event and verify if its booked",
+    "uid" : "a3de0cd0803dc33b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163730508,
+      "stop" : 1783163733217,
+      "duration" : 2709
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{dateTime=2027-08-20T18:00, venue=Palace Grounds, city=Bangalore, phone=8765432109, price=2500, description=Live music festival with top artists, fullName=Test Automation User, titlePrefix=Music Festival, totalSeats=200, email=automation.test@example.com}" ]
+  }, {
+    "name" : "Create Event -Book that event and verify if its booked",
+    "uid" : "96f8c55d0eab30f1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1783163733925,
+      "stop" : 1783163735646,
+      "duration" : 1721
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "d28ea39cefd59fbb",
+  "name" : "Create Event -Book that event and verify if its booked",
+  "fullName" : "tests.FrameworkBuildTest.DemoTest",
+  "historyId" : "b7658e9e088b172ad894fb00e0026524",
+  "time" : {
+    "start" : 1783163247660,
+    "stop" : 1783163249760,
+    "duration" : 2100
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1783163244742,
+      "stop" : 1783163247653,
+      "duration" : 2911
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.FrameworkBuildTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.FrameworkBuildTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "DemoTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.FrameworkBuildTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-8.local"
+  }, {
+    "name" : "thread",
+    "value" : "81114@MacBook-Pro-8.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d28ea39cefd59fbb.json",
+  "parameterValues" : [ ]
+}

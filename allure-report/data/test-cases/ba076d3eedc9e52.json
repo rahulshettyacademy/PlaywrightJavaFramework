@@ -1,0 +1,95 @@
+{
+  "uid" : "ba076d3eedc9e52",
+  "name" : "Create Event -Book that event and verify if its booked",
+  "fullName" : "tests.FrameworkBuildDataDrivenTest.DemoTest",
+  "historyId" : "eb6353d7ddcdbaf8c4a0c571c0960cf0",
+  "time" : {
+    "start" : 1783163244629,
+    "stop" : 1783163244629,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1783163244628,
+      "stop" : 1783163244628,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1783163244630,
+      "stop" : 1783163244630,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.FrameworkBuildDataDrivenTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.FrameworkBuildDataDrivenTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "DemoTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.FrameworkBuildDataDrivenTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-8.local"
+  }, {
+    "name" : "thread",
+    "value" : "81114@MacBook-Pro-8.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "{dateTime=2027-08-20T18:00, venue=Palace Grounds, city=Bangalore, phone=8765432109, price=2500, description=Live music festival with top artists, fullName=Test Automation User, titlePrefix=Music Festival, totalSeats=200, email=automation.test@example.com}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba076d3eedc9e52.json",
+  "parameterValues" : [ "{dateTime=2027-08-20T18:00, venue=Palace Grounds, city=Bangalore, phone=8765432109, price=2500, description=Live music festival with top artists, fullName=Test Automation User, titlePrefix=Music Festival, totalSeats=200, email=automation.test@example.com}" ]
+}

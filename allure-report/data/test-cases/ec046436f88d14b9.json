@@ -1,0 +1,86 @@
+{
+  "uid" : "ec046436f88d14b9",
+  "name" : "sandbox banner is shown when 6 events are returned",
+  "fullName" : "tests.MockWebTest.DemoTest",
+  "historyId" : "de8662b7a94353ed1a384bd581d5126d",
+  "time" : {
+    "start" : 1783163725262,
+    "stop" : 1783163725262,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1783163725260,
+      "stop" : 1783163725260,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.MockWebTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MockWebTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "DemoTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.MockWebTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-8.local"
+  }, {
+    "name" : "thread",
+    "value" : "82051@MacBook-Pro-8.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "45a6e0a6de172e5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1783163244667,
+        "stop" : 1783163244667,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec046436f88d14b9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,63 @@
+{
+  "uid" : "669aaec5b23fdc6a",
+  "name" : "testWithHashMap",
+  "fullName" : "tests.DataProviderDemoTest.testWithHashMap",
+  "historyId" : "ea6527ecfe0ebab041607c00a5f9f77c",
+  "time" : {
+    "start" : 1783163244706,
+    "stop" : 1783163244706,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.DataProviderDemoTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.DataProviderDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testWithHashMap"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.DataProviderDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-8.local"
+  }, {
+    "name" : "thread",
+    "value" : "81114@MacBook-Pro-8.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "{password=password1, email=user!@yahoo.com}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "669aaec5b23fdc6a.json",
+  "parameterValues" : [ "{password=password1, email=user!@yahoo.com}" ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "8b517dae8742bdfe",
+  "name" : "routeResumeTest",
+  "fullName" : "tests.MockWebTest.routeResumeTest",
+  "historyId" : "81cd4057703221324c9630bf0daaaffc",
+  "time" : {
+    "start" : 1783163244669,
+    "stop" : 1783163244669,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1783163244668,
+      "stop" : 1783163244668,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.MockWebTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.MockWebTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "routeResumeTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Command line suite"
+  }, {
+    "name" : "suite",
+    "value" : "Command line test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.MockWebTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-8.local"
+  }, {
+    "name" : "thread",
+    "value" : "81114@MacBook-Pro-8.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b517dae8742bdfe.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,240 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Command line suite",
+    "children" : [ {
+      "name" : "Command line test",
+      "children" : [ {
+        "name" : "tests.APITest",
+        "children" : [ {
+          "name" : "e2eApiTest",
+          "uid" : "ee08b9046298b90d",
+          "parentUid" : "547c76366db3c484c2f1181098a12a3c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725239,
+            "stop" : 1783163725240,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "547c76366db3c484c2f1181098a12a3c"
+      }, {
+        "name" : "tests.MoreUIValidationsTest",
+        "children" : [ {
+          "name" : "ChildWindowHandle",
+          "uid" : "58acd025718a9f49",
+          "parentUid" : "7b9ecfd4ddb06ac7f281903715f598dc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725251,
+            "stop" : 1783163725251,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "UIControls",
+          "uid" : "36dde16f76768f0a",
+          "parentUid" : "7b9ecfd4ddb06ac7f281903715f598dc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725253,
+            "stop" : 1783163725253,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7b9ecfd4ddb06ac7f281903715f598dc"
+      }, {
+        "name" : "tests.MockWebTest",
+        "children" : [ {
+          "name" : "sandbox banner is shown when 6 events are returned",
+          "uid" : "ec046436f88d14b9",
+          "parentUid" : "21c7fa7351b5e5a634ae4766e319da29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725262,
+            "stop" : 1783163725262,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "routeResumeTest",
+          "uid" : "1a1dbda4e4b57cbe",
+          "parentUid" : "21c7fa7351b5e5a634ae4766e319da29",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725264,
+            "stop" : 1783163725264,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "21c7fa7351b5e5a634ae4766e319da29"
+      }, {
+        "name" : "tests.UIValidationsContinuedTest",
+        "children" : [ {
+          "name" : "popupValidations",
+          "uid" : "105af6daf7165112",
+          "parentUid" : "ae3954b8d37b65df8757e764af5bfe98",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725273,
+            "stop" : 1783163725273,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "screenShotTest",
+          "uid" : "d9967f5835377461",
+          "parentUid" : "ae3954b8d37b65df8757e764af5bfe98",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725274,
+            "stop" : 1783163725274,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ae3954b8d37b65df8757e764af5bfe98"
+      }, {
+        "name" : "tests.BasicsTest",
+        "children" : [ {
+          "name" : "Create Event -Book that event and verify if its booked",
+          "uid" : "a4dde04b6f5ec246",
+          "parentUid" : "0db40d4d72a64f79a6e36fe6973cb271",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725287,
+            "stop" : 1783163725287,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0db40d4d72a64f79a6e36fe6973cb271"
+      }, {
+        "name" : "tests.DataProviderDemoTest",
+        "children" : [ {
+          "name" : "testFillForm",
+          "uid" : "4ae2b62814c485a2",
+          "parentUid" : "a8c60ae767fac3af6b28cf23e7c8be12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725296,
+            "stop" : 1783163725296,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "user!@yaoo.com", "password1" ]
+        }, {
+          "name" : "testFillForm",
+          "uid" : "fd8cc1b2f2b11876",
+          "parentUid" : "a8c60ae767fac3af6b28cf23e7c8be12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725297,
+            "stop" : 1783163725297,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "user!@gmail.com", "password2" ]
+        }, {
+          "name" : "testWithHashMap",
+          "uid" : "c985831e1ed7b887",
+          "parentUid" : "a8c60ae767fac3af6b28cf23e7c8be12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725299,
+            "stop" : 1783163725299,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{password=password1, email=user!@yahoo.com}" ]
+        }, {
+          "name" : "testWithHashMap",
+          "uid" : "6fdf9f45be816bc1",
+          "parentUid" : "a8c60ae767fac3af6b28cf23e7c8be12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163725300,
+            "stop" : 1783163725300,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{password=password2, email=user!@gmail.com}" ]
+        } ],
+        "uid" : "a8c60ae767fac3af6b28cf23e7c8be12"
+      }, {
+        "name" : "tests.FrameworkBuildDataDrivenTest",
+        "children" : [ {
+          "name" : "Create Event -Book that event and verify if its booked",
+          "uid" : "5177ecea123f1834",
+          "parentUid" : "8fccbe57f67528be2ec9939c4ae71f39",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163727858,
+            "stop" : 1783163729788,
+            "duration" : 1930
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{dateTime=2027-06-15T10:00, venue=HICC Convention Center, city=Hyderabad, phone=9876543210, price=1500, description=Annual technology conference for developers, fullName=Rahul Shetty, titlePrefix=Tech Conference, totalSeats=100, email=rahul.student@example.com}" ]
+        }, {
+          "name" : "Create Event -Book that event and verify if its booked",
+          "uid" : "a3de0cd0803dc33b",
+          "parentUid" : "8fccbe57f67528be2ec9939c4ae71f39",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163730508,
+            "stop" : 1783163733217,
+            "duration" : 2709
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{dateTime=2027-08-20T18:00, venue=Palace Grounds, city=Bangalore, phone=8765432109, price=2500, description=Live music festival with top artists, fullName=Test Automation User, titlePrefix=Music Festival, totalSeats=200, email=automation.test@example.com}" ]
+        } ],
+        "uid" : "8fccbe57f67528be2ec9939c4ae71f39"
+      }, {
+        "name" : "tests.FrameworkBuildTest",
+        "children" : [ {
+          "name" : "Create Event -Book that event and verify if its booked",
+          "uid" : "96f8c55d0eab30f1",
+          "parentUid" : "f3103fa9fd82b5c483f84f5ae4d12bf9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1783163733925,
+            "stop" : 1783163735646,
+            "duration" : 1721
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f3103fa9fd82b5c483f84f5ae4d12bf9"
+      } ],
+      "uid" : "d25b44baf1a59b2ba9e824375ad84458"
+    } ],
+    "uid" : "a3ebd3885f734b5e692af432fe3ee17b"
+  } ]
+}
